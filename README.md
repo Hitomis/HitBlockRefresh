@@ -1,4 +1,4 @@
-# FunGameRefreshView
+# FunGameRefreshView  
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-HitBlockRefresh-brightgreen.svg?style=flat)](http://android-arsenal.com/details/3/3253)
 
@@ -112,7 +112,9 @@ UI设计来自于：https://github.com/dasdom/BreakOutToRefresh
 
 #Licence
 
-MIT 
+MIT
+
+原生android代码写的，有点意思
 
 
 
